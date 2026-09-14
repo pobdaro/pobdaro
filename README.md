@@ -68,12 +68,45 @@ I'm a Java developer interested in game server development.
 
 <br>
 
+## 📊 GitHub Statistics
+
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=pobdaro&show_icons=true&theme=github_dark&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pobdaro&theme=github_dark"
+width="48%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobdaro&layout=compact&theme=github_dark&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pobdaro&theme=github_dark"
+width="48%"
+/>
+</p>
+
+<br>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img
+src="https://streak-stats.demolab.com?user=pobdaro&theme=github-dark-blue&hide_border=true"
+/>
+</p>
+
+<br>
+
+## 📈 Profile Activity
+
+<p align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobdaro&theme=github_dark"
+width="100%"
+/>
+</p>
+
+<br>
+
+<p align="center">
+<img
+src="https://komarev.com/ghpvc/?username=pobdaro&style=flat-square&label=Profile+Views"
 />
 </p>
